@@ -1,6 +1,6 @@
 # Hi there, I’m Farrukh! 👋
 
-##🚗 About Me
+## 🚗 About Me
 I am an Embedded Software Engineer passionate about the intersection of TinyML, Edge AI, and Automotive Systems. My goal is to deploy high-performance, low-latency intelligence directly onto constrained hardware to power the next generation of ADAS and Autonomous Driving (AD) solutions.
 
 ## 👀 I’m interested in
@@ -24,10 +24,8 @@ I am an Embedded Software Engineer passionate about the intersection of TinyML, 
 - AI/ML: TensorFlow Lite Micro, PyTorch, Edge Impulse, Scikit-learn
 - Robotics/Auto: ROS 2, OpenCV, Kalman Filters, MPC
 - Tools: Git, Docker, Linux, RTOS (FreeRTOS/Zephyr)
+  
 ## 📫 How to reach me
 - Email:  [farrukhajaz1@gmail.com](mailto:farrukhajaz1@gmail.com)
 - LinkedIn: [@FarrukhAijaz]([https://github.com/FarrukhAijaz](https://www.linkedin.com/in/syed-muhammad-farrukh-aijaz-289b72175/)).
 
-
-## ⚡ Fun fact
-I once rotated a 2D lidar to generate 3D points for mapping using a custom ROS 2 package! It was an exciting project combining my interests in robotics and control systems.
