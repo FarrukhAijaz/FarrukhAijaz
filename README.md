@@ -19,7 +19,7 @@ I am an Embedded Software Engineer passionate about the intersection of TinyML, 
 - ADAS/AD Frameworks: Contributions to middleware or perception pipelines.
 - Embedded Tooling: Projects that improve the deployment workflow from Python/PyTorch to C++ embedded targets.
 
-##🛠️ Tech Stack
+## 🛠️ Tech Stack
 - Languages: Python, C++, C, Embedded C
 - AI/ML: TensorFlow Lite Micro, PyTorch, Edge Impulse, Scikit-learn
 - Robotics/Auto: ROS 2, OpenCV, Kalman Filters, MPC
