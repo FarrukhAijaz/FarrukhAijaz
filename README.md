@@ -27,5 +27,5 @@ I am an Embedded Software Engineer passionate about the intersection of TinyML, 
   
 ## 📫 How to reach me
 - Email:  [farrukhajaz1@gmail.com](mailto:farrukhajaz1@gmail.com)
-- LinkedIn: [@FarrukhAijaz]([https://github.com/FarrukhAijaz](https://www.linkedin.com/in/syed-muhammad-farrukh-aijaz-289b72175/)).
+- LinkedIn: [@FarrukhAijaz](https://www.linkedin.com/in/syed-muhammad-farrukh-aijaz-289b72175/).
 
